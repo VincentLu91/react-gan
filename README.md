@@ -1,4 +1,4 @@
-# React App to record, transcribe, save, and summarize spoken words
+# React App to generate images using StyleGAN
 
 YouTube: https://youtu.be/m5-yscMbjCw
 
